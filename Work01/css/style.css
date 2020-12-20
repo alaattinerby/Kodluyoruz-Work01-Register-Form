@@ -23,7 +23,7 @@ body{
     height: 570px;
     margin: auto;
     margin-top: 86px;
-    background: #FFFFFF;
+    background-color: transparent;
     box-shadow: 0px 0px 50px 10px rgba(0, 0, 0, 0.09);
     border-radius: 10px;
     border-top: 5px solid #CF58F6;
